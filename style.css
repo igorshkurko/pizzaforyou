@@ -1,0 +1,42 @@
+
+
+#carouselExampleCaptions{
+    height: 98vh;
+}
+
+#carouselExampleCaptions * {
+    height: 100%;
+}
+
+#carouselExampleCaptions img {
+    object-fit: cover;
+}
+#carouselExampleCaptions .carousel-indicators{
+    height: 1vh;
+    align-self: flex-end;
+}
+
+#carouselExampleCaptions .carousel-caption h5{
+
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.logo{
+    width: 10vh;
+}
+
+.Pissa {
+    margin: 56px;
+   
+}
+
+.card {
+    margin: 10px;
+}
+
+.Pirra {
+    margin: 56px;
+   
+}
